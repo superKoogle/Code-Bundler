@@ -6,7 +6,7 @@ The tool is in the configuration of a CLI - command line interface, and its use 
 
 Running the command will create the file that contains all the desired code
 
-##Libraries
+## Libraries
 The System.CommandLine library provides the functionality required for command-line applications.
 
 The library is currently in an experimental version and there may be changes in the next versions.
