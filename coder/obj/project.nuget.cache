@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "+eMD+5rZzOA35N/o5rfk+945ykf3v0CG30GeaG+tOW+riMmS7mok239IcyK5g3mJTs37ErFJjPcMYW1QbhKV2g==",
+  "success": true,
+  "projectFilePath": "D:\\הנדסאים - לימודים\\שנה ג\\Files Bundler\\coder\\coder\\coder.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\A\\.nuget\\packages\\system.commandline\\2.0.0-beta4.22272.1\\system.commandline.2.0.0-beta4.22272.1.nupkg.sha512"
+  ],
+  "logs": []
+}
