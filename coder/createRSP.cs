@@ -50,7 +50,8 @@ namespace coder
                 }
                 catch (System.NullReferenceException)
                 {
-                    Console.WriteLine("File path was not provided. use option --output to provide output file path.");
+                    Console.WriteLine("File path was not provided." +
+                        " use option --output to provide output file path.");
                 }
 
             }, output);
